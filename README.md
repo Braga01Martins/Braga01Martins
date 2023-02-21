@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 
-- 📱 I’m currently working on framework Flutter
+- 📱 I’m currently working on clinical engineering
 - 🌱 I’m currently learning Dart and Pyhon
-- I’m looking to collaborate on Flutter
-- 🤔 I’m looking for help with Flutter
-- 💬 Ask me about Flutter
-
+- I’m looking to collaborate on commercial projects
+- 🤔 I’m looking for help with mobile development
 
 <div>
   <a href="https://github.com/Braga01Martins">
@@ -30,5 +28,6 @@
   <div>
   <a href = "mailto:davimartinsbraga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/davi-braga-47b2b613b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+  https://github.com/Braga01Martins/Braga01Martins/blob/output/github-contribution-grid  
 </div>
