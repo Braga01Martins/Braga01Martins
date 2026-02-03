@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 
-- 📱 I’m currently working on clinical engineering
-- 🌱 I’m currently learning Dart and Pyhon
-- I’m looking to collaborate on commercial projects
-- 🤔 I’m looking for help with mobile development
+With a background in Biomedical Systems Technology and Computer Engineering, I seek to combine technology and healthcare to create solutions adaptable to the modern world.
+
+## Co-founder:
+
+app.smartkeeping.com.br
 
 <div>
   <a href="https://github.com/Braga01Martins">
@@ -18,9 +19,7 @@
   <img align="center" alt="davi-Dart" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="davi-flutter" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="davi-python" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="davi-C" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="davi-HTML" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="davi-CSS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="davi-java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <div/>
   
   ##
