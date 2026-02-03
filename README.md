@@ -7,13 +7,8 @@ With a background in Biomedical Systems Technology and Computer Engineering, I s
 
 app.smartkeeping.com.br
 
-<div>
-  <a href="https://github.com/Braga01Martins">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Braga01Martins&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
-  <img/>
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braga01Martins&layout=compact&langs_count=16&theme=dark"/>
-  <img/>
-</div> 
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Braga01Martins&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Braga01Martins)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Braga01Martins&layout=compact&langs_count=16&theme=dark)](https://github.com/Braga01Martins)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="davi-Dart" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
