@@ -5,8 +5,8 @@
 Com formação em Tecnologia de Sistemas Biomédicos e Engenharia da Computação, busco combinar tecnologia e saúde para criar soluções adaptáveis ​​ao mundo moderno, atualmente trabalhando com:
 
 - **Mobile:** Flutter & Dart 📱
-- **Backend:** Java & Python ⚙️
-- **Infra:** Docker & SQL (PostgreSQL) 🐳
+- **Backend:** NestJS & TypeScript ⚙️
+
 
 ---
 
