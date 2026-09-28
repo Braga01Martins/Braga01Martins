@@ -12,18 +12,15 @@ Com formação em Tecnologia de Sistemas Biomédicos e Engenharia da Computaçã
 ---
 
 ## 💼 Projetos Atuais
-**Co-founder**  
-<a href="https://app.smartkeeping.com.br/#/register" target="_blank">
+**Co-founder**  <a href="https://app.smartkeeping.com.br/#/register" target="_blank"> 
   <img src="https://img.shields.io/badge/-Smart_Keeping-%2343bee8?style=for-the-badge&logoColor=white" />
 </a>
 
-**Idealizador e Desenvolvedor**
-<a href="https://hubsaudebrasil.com.br" target="_blank">
+**Idealizador e Desenvolvedor** <a href="https://hubsaudebrasil.com.br" target="_blank">
   <img src="https://img.shields.io/badge/-Hub%20Saude%20Brasil-%23F8FAFC?style=for-the-badge&logoColor=white" />
 </a>
 
-**Criador e Desenvolvedor**  
-<a href="https://consignado.smartkeeping.com.br" target="_blank">
+**Criador e Desenvolvedor**  <a href="https://consignado.smartkeeping.com.br" target="_blank">
   <img src="https://img.shields.io/badge/-Gestao%20Equipamentos%20Consignados-%230F172A?style=for-the-badge&logoColor=white" />  
 </a>
 
