@@ -4,8 +4,9 @@
 ## 🚀 Sobre mim
 Com formação em Tecnologia de Sistemas Biomédicos e Engenharia da Computação, busco combinar tecnologia e saúde para criar soluções adaptáveis ​​ao mundo moderno, atualmente trabalhando com:
 
-- **Mobile:** Flutter & Dart 📱
-- **Backend:** NestJS & TypeScript ⚙️
+- **Aplicações Mobile:** Flutter  📱
+- **Sistemas Web & Internos:** APEX - Oracle 🌐
+- **Backend & Banco de Dados:** Golang - PL/SQL ⚙️
 
 
 ---
