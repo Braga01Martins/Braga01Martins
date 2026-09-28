@@ -17,6 +17,17 @@ Com formação em Tecnologia de Sistemas Biomédicos e Engenharia da Computaçã
   <img src="https://img.shields.io/badge/-Smart_Keeping-%2343bee8?style=for-the-badge&logoColor=white" />
 </a>
 
+**Idealizador e Desenvolvedor** em [Hub Saúde Brasil](https://hubsaudebrasil.com.br)
+<a href="https://hubsaudebrasil.com.br" target="_blank">
+  <img src="https://img.shields.io/badge/-Hub%20Saude%20Brasil-%2343bee8?style=for-the-badge&logoColor=white" />
+</a>
+
+**Criador e Desenvolvedor** em [Gestão de Equipamentos Consignados](https://consignado.smartkeeping.com.br)
+<a href="https://consignado.smartkeeping.com.br" target="_blank">
+  <img src="https://img.shields.io/badge/-Gestao%20Equipamentos%20Consignados-%2343bee8?style=for-the-badge&logoColor=white" /> 
+</a>
+
+
 ---
 
 ## 🛠️ Tech Stack
